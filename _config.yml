@@ -17,7 +17,7 @@ title: Tom Sitter
 email: thomas.sitter@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog and portfolio to showcase some recent projects I am working on
-twitter_username: tom_sitter
+LinkedIn_username: tom_sitter
 github_username: tomsitter
 minimal_mistakes_skin: air
 search: true
@@ -60,12 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am life-long learner with a career in applied research and health informatics."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.tomsitter.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tom_sitter"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/tomsitter/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tomsitter"
@@ -75,9 +72,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tom_sitter"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/tomsitter/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tomsitter"

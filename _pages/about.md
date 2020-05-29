@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, my name's Tom Sitter. On this page you will find some of my projects as I dive into Artificial Intelligence and Machine Learning. Hopefully you are finding something interesting on here.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+ I currently work in health informatics in British Columbia, Canada, specializing in the safety and quality of health information systems. I have past experience writing software in a wide variety of research settings including consumer behaviour, electricity usage, medical imaging, and drug discovery. 
+
+The easiest way to get in touch with my is by email at thomas.sitter@gmail.com
