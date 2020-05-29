@@ -19,7 +19,7 @@ For those of you also looking to learn AI, I highly recommend Andrew Ng's course
  * [Practical AI](https://changelog.com/practicalai) to keep up-to-date with latest developments
  * [Artificial Intelligence podcast](https://lexfridman.com/ai/) to hear the perspective of expert researchers
 
- ## Next Steps
+## Next Steps
 
 During the Deep Learning course, my favourite project was Neural Style Transfer, which lets you apply a style from one image onto the contents of another. The best person I've found doing this on the internet is [ostagram.me](https://www.ostagram.me/). I'll be completing this in PyTorch first, then decide whether to re-implement in TensorFlow so I can compare approaches. Until then, keep checking back!
 
