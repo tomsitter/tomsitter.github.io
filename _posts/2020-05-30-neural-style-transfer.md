@@ -1,6 +1,6 @@
 ---
 title: "Neural Style Transfer with PyTorch"
-date: 2020-05-28
+date: 2020-06-02
 categories:
   - blog
 tags:
