@@ -1,6 +1,6 @@
 ---
 title: "Diving into AI: First Steps"
-date: 2020-05-20
+date: 2020-05-28
 categories:
   - blog
 tags:
