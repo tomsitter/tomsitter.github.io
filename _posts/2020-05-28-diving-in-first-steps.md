@@ -23,5 +23,5 @@ For those of you also looking to learn AI, I highly recommend Andrew Ng's course
 
 During the Deep Learning course, my favourite project was Neural Style Transfer, which lets you apply a style from one image onto the contents of another. The best person I've found doing this on the internet is [ostagram.me](https://www.ostagram.me/). I'll be completing this in PyTorch first, then decide whether to re-implement in TensorFlow so I can compare approaches. Until then, keep checking back!
 
-
+[Update: I've finished that project and you can read about it [here](http://www.tomsitter.com/blog/neural-style-transfer/)]
 
