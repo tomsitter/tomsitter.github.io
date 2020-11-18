@@ -38,9 +38,11 @@ As for neural network architecture, I'm looking at a many-to-many recurrent neur
 
 Doing a bit of googling, I was able to location the coordinates of all of the fish farms, as well as the location of a number of lighthouses across the coast of BC and Vancouver island. Fortunately, lighthouses report temperature and salinity data so they would be an excellent source of data. 
 
-The first thing I need to do is see if the locations of the fish farms and lighthouses overlap enough that I can use some of them. I brought the coordinates into pydeck and plotted heatmaps around the points to get an idea of overlap. Unfortunately, it isn't great.  Lighthouses tend to be located on islands and points reaching out into the ocean, whereas fish farms are in sheltered inlets and in the Discovery Islands. Clearly I will need another source of data.
+The first thing I need to do is see if the locations of the fish farms and lighthouses overlap enough that I can use some of them. I brought the coordinates into pydeck and plotted heatmaps around the points to get an idea of overlap. 
 
 {% include figure image_path="/assets/images/lightstation_vs_farm_overlap.PNG" alt="Locations of fish farms in BC" caption="Locations of fish farms in BC. Lighthouses are in red and fish farms are in blue" %}
+
+Unfortunately, it isn't great.  Lighthouses tend to be located on islands and points reaching out into the ocean, whereas fish farms are in sheltered inlets and in the Discovery Islands. Clearly I will need another source of data.
 
 ## Satellites to the rescue?
 
