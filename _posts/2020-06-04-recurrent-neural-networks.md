@@ -1,6 +1,6 @@
 ---
 title: "Choosing a real world project to learn AI"
-date: 2020-06-03
+date: 2020-11-17
 categories:
   - blog
 tags:
