@@ -10,7 +10,8 @@ tags:
   - coursera
 ---
 
-I've completed some course work, I've tinkered with tutorials, and now it is time to do a project that I can complete from start to finish. I want to get experience:
+
+I've completed some course work, I've tinkered with tutorials, and now I'm hunting for a project to test out some model training for. Some of the tasks I want more hands on experience with are:
 * Collecting data from various sources
 * Cleaning, labelling, and transforming the data in an appropriate format
 * Choosing an appropriate neural network archictecture
@@ -32,3 +33,21 @@ I'll need to decide what kinds of data to feed into my neural network to make pr
 * Salmon density (higher densities allow them to move from fish-to-fish more easily)
 
 As for neural network architecture, I'm looking at a many-to-many recurrent neural network looks like both a fun and [powerful](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) architecture. Furthermore, it caused me more issues than any other architecture during my class work, so it is work get more experience with. Yes, I know that most problems don't start with a solution.. but I'm doing this for my own learning as a primary goal, and to solve the sea lice problem as a hopeful outcome.
+
+## Finding the fish farms and temperature readings
+
+Doing a bit of googling, I was able to location the coordinates of all of the fish farms, as well as the location of a number of lighthouses across the coast of BC and Vancouver island. Fortunately, lighthouses report temperature and salinity data so they would be an excellent source of data. 
+
+The first thing I need to do is see if the locations of the fish farms and lighthouses overlap enough that I can use some of them. I brought the coordinates into pydeck and plotted heatmaps around the points to get an idea of overlap. Unfortunately, it isn't great.  Lighthouses tend to be located on islands and points reaching out into the ocean, whereas fish farms are in sheltered inlets and in the Discovery Islands. Clearly I will need another source of data.
+
+{% include figure image_path="/assets/images/lightstation_vs_farm_overlap.PNG" alt="Locations of fish farms in BC" caption="Locations of fish farms in BC. Lighthouses are in red and fish farms are in blue" %}
+
+## Satellites to the rescue?
+
+Another source of temperature and salinity data could be from satellite surveillance provided by the NASA PODAAC website. These are promising since there are freely available high resolution global temperature datasets (I am using one called [MUR-JPL-L4-GLOB-v4.1](https://doi.org/10.5067/GHGMR-4FJ04)). Browing through the literature indicates that these [may not be most accurate measures](https://www.frontiersin.org/articles/10.3389/fmars.2018.00121/full), but other [researchers have used them for predictions](https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1), so I'll have to give them a try.
+
+{% include figure image_path="/assets/images/sst_example.PNG" alt="Sea Surface Temperature obtained from the " caption="Locations of fish farms in BC. Lighthouses are in red and fish farms are in blue" %}
+
+## What's next?
+
+My next step is to start processing this temperature and salinity data into a useful format so I can match it particular farms. I've also begun to look at the reported sea lice numbers, but work will be needed to get this into a readily analyzable format. Another question I have is what other metrics I can include in my dataset to help give my model a fighting chance. Stay tuned.
