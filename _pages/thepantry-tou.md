@@ -7,9 +7,10 @@ permalink: /thepantrytou.html
 
 
 ## TERMS OF USE
-### Last updated April 06, 2022
+{:.no_toc}
+Last updated April 06, 2022
             
-* TABLE OF CONTENTS
+1. TABLE OF CONTENTS
 {:toc}
 
 ## 1. AGREEMENT TO TERMS
@@ -79,19 +80,19 @@ As a user of the Site, you agree not to:
 
 The Site may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
 
-    The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
-    You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Site, and other users of the Site to use your Contributions in any manner contemplated by the Site and these Terms of Use.
-    You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Site and these Terms of Use.
-    Your Contributions are not false, inaccurate, or misleading.
-    Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
-    Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
-    Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
-    Your Contributions are not used to harass or threaten (in the legal sense of those terms) any other person and to promote violence against a specific person or class of people.
-    Your Contributions do not violate any applicable law, regulation, or rule.
-    Your Contributions do not violate the privacy or publicity rights of any third party.
-    Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors.
-    Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
-    Your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms of Use, or any applicable law or regulation.
+* The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
+* You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Site, and other users of the Site to use your Contributions in any manner contemplated by the Site and these Terms of Use.
+* You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Site and these Terms of Use.
+* Your Contributions are not false, inaccurate, or misleading.
+* Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
+* Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
+* Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
+*  Your Contributions are not used to harass or threaten (in the legal sense of those terms) any other person and to promote violence against a specific person or class of people.
+*  Your Contributions do not violate any applicable law, regulation, or rule.
+*   Your Contributions do not violate the privacy or publicity rights of any third party.
+*    Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors.
+*    Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
+*    Your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms of Use, or any applicable law or regulation.
 
 Any use of the Site in violation of the foregoing violates these Terms of Use and may result in, among other things, termination or suspension of your rights to use the Site.
 
@@ -218,11 +219,18 @@ These Terms of Use and any policies or operating rules posted by us on the Site 
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at:
 
 Sitter Consulting Inc.
+
 2395A Grant Ave
-Courtenay , British Columbia V9N 7E9
+
+Courtenay, British Columbia V9N 7E9
+
 Canada
+
 Phone:  8077080847
+
 thomas.sitter@gmail.com
+
+
 These terms of use were created using Termly's [Terms and Conditions Generator](https://termly.io/products/terms-and-conditions-generator). 
     
 <script>
